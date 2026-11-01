@@ -1,4 +1,19 @@
 {
   "schema_version": 1,
-  "entries": []
+  "entries": [
+    {
+      "date": "2026-11-01",
+      "turn": 0,
+      "entry": {
+        "greeting": "Hello",
+        "language": "English",
+        "meaning": "Hello",
+        "usage_note": "A greeting; formality depends on the language and situation.",
+        "country_code": "US",
+        "city": "San Francisco",
+        "airport_code": "SFO"
+      },
+      "message": "🇺🇸 PASSPORT PINGS — #1\nHello!\n\nLanguage: English\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: San Francisco (SFO)\nFeatured country: US"
+    }
+  ]
 }
