@@ -1,0 +1,63 @@
+name: Passport Pings
+
+on:
+  schedule:
+    # Monday, Wednesday, Friday at 9:17 a.m. Pacific, including DST changes.
+    - cron: "17 9 * * 1,3,5"
+      timezone: America/Los_Angeles
+  workflow_dispatch:
+    inputs:
+      resend_today:
+        description: "Resend today's Discord message (may duplicate an earlier delivery)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Serialize journal writers; don't cancel a run between publication and notification.
+concurrency:
+  group: passport-pings-journal
+  cancel-in-progress: false
+
+jobs:
+  ping:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python -m pip install -r requirements.txt
+      - name: Test before updating the journal
+        run: python -m unittest discover -s tests -v
+      - name: Prepare or reuse today's greeting
+        id: prepare
+        run: python passport_pings.py prepare
+      - name: Publish journal changes
+        id: publish
+        shell: bash
+        run: |
+          set -euo pipefail
+          AUTHOR_NAME=$(python -c 'from pathlib import Path; from passport_pings import load_config; print(load_config(Path("."))["commit_author_name"])')
+          AUTHOR_EMAIL=$(python -c 'from pathlib import Path; from passport_pings import load_config; print(load_config(Path("."))["commit_author_email"])')
+          git config --local user.name "$AUTHOR_NAME"
+          git config --local user.email "$AUTHOR_EMAIL"
+          git add -- journal.json JOURNAL.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated Passport Ping: ${{ steps.prepare.outputs.journal_date }}"
+            git push origin HEAD:main
+          fi
+          echo "commit_url=https://github.com/${GITHUB_REPOSITORY}/commit/$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - name: Notify Discord after successful publication
+        if: steps.prepare.outputs.created == 'true' || inputs.resend_today == true
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python passport_pings.py notify \
+            --journal-date "${{ steps.prepare.outputs.journal_date }}" \
+            --commit-url "${{ steps.publish.outputs.commit_url }}"

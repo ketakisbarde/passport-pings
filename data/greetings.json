@@ -1,0 +1,1442 @@
+[
+  {
+    "greeting": "Hello",
+    "language": "English",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "US",
+    "city": "San Francisco",
+    "airport_code": "SFO"
+  },
+  {
+    "greeting": "Salut",
+    "language": "French",
+    "meaning": "Hi / bye",
+    "usage_note": "Informal; suitable for familiar people.",
+    "country_code": "FR",
+    "city": "Paris",
+    "airport_code": "CDG"
+  },
+  {
+    "greeting": "Hola",
+    "language": "Spanish",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "ES",
+    "city": "Madrid",
+    "airport_code": "MAD"
+  },
+  {
+    "greeting": "Hallo",
+    "language": "German",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "DE",
+    "city": "Frankfurt",
+    "airport_code": "FRA"
+  },
+  {
+    "greeting": "Ciao",
+    "language": "Italian",
+    "meaning": "Hello / goodbye",
+    "usage_note": "Informal; suitable for familiar people.",
+    "country_code": "IT",
+    "city": "Rome",
+    "airport_code": "FCO"
+  },
+  {
+    "greeting": "Olá",
+    "language": "Portuguese",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "PT",
+    "city": "Lisbon",
+    "airport_code": "LIS"
+  },
+  {
+    "greeting": "Hallo",
+    "language": "Dutch",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "airport_code": "AMS"
+  },
+  {
+    "greeting": "Hej",
+    "language": "Swedish",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "airport_code": "ARN"
+  },
+  {
+    "greeting": "Hei",
+    "language": "Norwegian Bokmål",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "NO",
+    "city": "Oslo",
+    "airport_code": "OSL"
+  },
+  {
+    "greeting": "Hej",
+    "language": "Danish",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "DK",
+    "city": "Copenhagen",
+    "airport_code": "CPH"
+  },
+  {
+    "greeting": "Hei",
+    "language": "Finnish",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "airport_code": "HEL"
+  },
+  {
+    "greeting": "Halló",
+    "language": "Icelandic",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "IS",
+    "city": "Reykjavik",
+    "airport_code": "KEF"
+  },
+  {
+    "greeting": "Cześć",
+    "language": "Polish",
+    "meaning": "Hi / bye",
+    "usage_note": "An informal greeting or farewell.",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "airport_code": "WAW"
+  },
+  {
+    "greeting": "Ahoj",
+    "language": "Czech",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "CZ",
+    "city": "Prague",
+    "airport_code": "PRG"
+  },
+  {
+    "greeting": "Ahoj",
+    "language": "Slovak",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "SK",
+    "city": "Bratislava",
+    "airport_code": "BTS"
+  },
+  {
+    "greeting": "Živjo",
+    "language": "Slovenian",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "SI",
+    "city": "Ljubljana",
+    "airport_code": "LJU"
+  },
+  {
+    "greeting": "Bok",
+    "language": "Croatian",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "HR",
+    "city": "Zagreb",
+    "airport_code": "ZAG"
+  },
+  {
+    "greeting": "Zdravo",
+    "language": "Serbian",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "airport_code": "BEG"
+  },
+  {
+    "greeting": "Përshëndetje",
+    "language": "Albanian",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "AL",
+    "city": "Tirana",
+    "airport_code": "TIA"
+  },
+  {
+    "greeting": "Salut",
+    "language": "Romanian",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "airport_code": "OTP"
+  },
+  {
+    "greeting": "Szia",
+    "language": "Hungarian",
+    "meaning": "Hi / bye",
+    "usage_note": "Informal, addressed to one person.",
+    "country_code": "HU",
+    "city": "Budapest",
+    "airport_code": "BUD"
+  },
+  {
+    "greeting": "Geia sou",
+    "language": "Greek (romanized)",
+    "meaning": "Hello / goodbye",
+    "usage_note": "Informal singular; romanization conventions vary.",
+    "country_code": "GR",
+    "city": "Athens",
+    "airport_code": "ATH"
+  },
+  {
+    "greeting": "Merhaba",
+    "language": "Turkish",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "TR",
+    "city": "Istanbul",
+    "airport_code": "IST"
+  },
+  {
+    "greeting": "Tere",
+    "language": "Estonian",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "airport_code": "TLL"
+  },
+  {
+    "greeting": "Sveiki",
+    "language": "Latvian",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "LV",
+    "city": "Riga",
+    "airport_code": "RIX"
+  },
+  {
+    "greeting": "Labas",
+    "language": "Lithuanian",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "airport_code": "VNO"
+  },
+  {
+    "greeting": "Dia dhuit",
+    "language": "Irish",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "IE",
+    "city": "Dublin",
+    "airport_code": "DUB"
+  },
+  {
+    "greeting": "Helo",
+    "language": "Welsh",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "GB",
+    "city": "Cardiff",
+    "airport_code": "CWL"
+  },
+  {
+    "greeting": "Halo",
+    "language": "Indonesian",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "ID",
+    "city": "Jakarta",
+    "airport_code": "CGK"
+  },
+  {
+    "greeting": "Hai",
+    "language": "Malay",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "airport_code": "KUL"
+  },
+  {
+    "greeting": "Xin chào",
+    "language": "Vietnamese",
+    "meaning": "Hello",
+    "usage_note": "A greeting; formality depends on the language and situation.",
+    "country_code": "VN",
+    "city": "Hanoi",
+    "airport_code": "HAN"
+  },
+  {
+    "greeting": "Habari",
+    "language": "Swahili",
+    "meaning": "How are things? / what's the news?",
+    "usage_note": "A conversational greeting inviting a response.",
+    "country_code": "KE",
+    "city": "Nairobi",
+    "airport_code": "NBO"
+  },
+  {
+    "greeting": "Good morning",
+    "language": "English",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "US",
+    "city": "San Francisco",
+    "airport_code": "SFO"
+  },
+  {
+    "greeting": "Bonjour",
+    "language": "French",
+    "meaning": "Hello / good day",
+    "usage_note": "A common daytime greeting, including in the morning.",
+    "country_code": "FR",
+    "city": "Paris",
+    "airport_code": "CDG"
+  },
+  {
+    "greeting": "Buenos días",
+    "language": "Spanish",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "ES",
+    "city": "Madrid",
+    "airport_code": "MAD"
+  },
+  {
+    "greeting": "Guten Morgen",
+    "language": "German",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "DE",
+    "city": "Frankfurt",
+    "airport_code": "FRA"
+  },
+  {
+    "greeting": "Buongiorno",
+    "language": "Italian",
+    "meaning": "Good morning / good day",
+    "usage_note": "A polite daytime greeting.",
+    "country_code": "IT",
+    "city": "Rome",
+    "airport_code": "FCO"
+  },
+  {
+    "greeting": "Bom dia",
+    "language": "Portuguese",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "PT",
+    "city": "Lisbon",
+    "airport_code": "LIS"
+  },
+  {
+    "greeting": "Goedemorgen",
+    "language": "Dutch",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "airport_code": "AMS"
+  },
+  {
+    "greeting": "God morgon",
+    "language": "Swedish",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "airport_code": "ARN"
+  },
+  {
+    "greeting": "God morgen",
+    "language": "Norwegian Bokmål",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "NO",
+    "city": "Oslo",
+    "airport_code": "OSL"
+  },
+  {
+    "greeting": "Godmorgen",
+    "language": "Danish",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "DK",
+    "city": "Copenhagen",
+    "airport_code": "CPH"
+  },
+  {
+    "greeting": "Hyvää huomenta",
+    "language": "Finnish",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "airport_code": "HEL"
+  },
+  {
+    "greeting": "Góðan morgun",
+    "language": "Icelandic",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "IS",
+    "city": "Reykjavik",
+    "airport_code": "KEF"
+  },
+  {
+    "greeting": "Dzień dobry",
+    "language": "Polish",
+    "meaning": "Good morning / good day",
+    "usage_note": "A polite daytime greeting.",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "airport_code": "WAW"
+  },
+  {
+    "greeting": "Dobré ráno",
+    "language": "Czech",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "CZ",
+    "city": "Prague",
+    "airport_code": "PRG"
+  },
+  {
+    "greeting": "Dobré ráno",
+    "language": "Slovak",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "SK",
+    "city": "Bratislava",
+    "airport_code": "BTS"
+  },
+  {
+    "greeting": "Dobro jutro",
+    "language": "Slovenian",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "SI",
+    "city": "Ljubljana",
+    "airport_code": "LJU"
+  },
+  {
+    "greeting": "Dobro jutro",
+    "language": "Croatian",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "HR",
+    "city": "Zagreb",
+    "airport_code": "ZAG"
+  },
+  {
+    "greeting": "Dobro jutro",
+    "language": "Serbian",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "airport_code": "BEG"
+  },
+  {
+    "greeting": "Mirëmëngjes",
+    "language": "Albanian",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "AL",
+    "city": "Tirana",
+    "airport_code": "TIA"
+  },
+  {
+    "greeting": "Bună dimineața",
+    "language": "Romanian",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "airport_code": "OTP"
+  },
+  {
+    "greeting": "Jó reggelt",
+    "language": "Hungarian",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "HU",
+    "city": "Budapest",
+    "airport_code": "BUD"
+  },
+  {
+    "greeting": "Kalimera",
+    "language": "Greek (romanized)",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "GR",
+    "city": "Athens",
+    "airport_code": "ATH"
+  },
+  {
+    "greeting": "Günaydın",
+    "language": "Turkish",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "TR",
+    "city": "Istanbul",
+    "airport_code": "IST"
+  },
+  {
+    "greeting": "Tere hommikust",
+    "language": "Estonian",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "airport_code": "TLL"
+  },
+  {
+    "greeting": "Labrīt",
+    "language": "Latvian",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "LV",
+    "city": "Riga",
+    "airport_code": "RIX"
+  },
+  {
+    "greeting": "Labas rytas",
+    "language": "Lithuanian",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "airport_code": "VNO"
+  },
+  {
+    "greeting": "Maidin mhaith",
+    "language": "Irish",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "IE",
+    "city": "Dublin",
+    "airport_code": "DUB"
+  },
+  {
+    "greeting": "Bore da",
+    "language": "Welsh",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "GB",
+    "city": "Cardiff",
+    "airport_code": "CWL"
+  },
+  {
+    "greeting": "Selamat pagi",
+    "language": "Indonesian",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "ID",
+    "city": "Jakarta",
+    "airport_code": "CGK"
+  },
+  {
+    "greeting": "Selamat pagi",
+    "language": "Malay",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "airport_code": "KUL"
+  },
+  {
+    "greeting": "Chào buổi sáng",
+    "language": "Vietnamese",
+    "meaning": "Good morning",
+    "usage_note": "A morning greeting or wish.",
+    "country_code": "VN",
+    "city": "Hanoi",
+    "airport_code": "HAN"
+  },
+  {
+    "greeting": "Habari za asubuhi",
+    "language": "Swahili",
+    "meaning": "How is your morning?",
+    "usage_note": "A morning inquiry used as a greeting.",
+    "country_code": "KE",
+    "city": "Nairobi",
+    "airport_code": "NBO"
+  },
+  {
+    "greeting": "Good evening",
+    "language": "English",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "US",
+    "city": "San Francisco",
+    "airport_code": "SFO"
+  },
+  {
+    "greeting": "Bonsoir",
+    "language": "French",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "FR",
+    "city": "Paris",
+    "airport_code": "CDG"
+  },
+  {
+    "greeting": "Buenas tardes",
+    "language": "Spanish",
+    "meaning": "Good afternoon",
+    "usage_note": "Afternoon usage varies by region.",
+    "country_code": "ES",
+    "city": "Madrid",
+    "airport_code": "MAD"
+  },
+  {
+    "greeting": "Guten Abend",
+    "language": "German",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "DE",
+    "city": "Frankfurt",
+    "airport_code": "FRA"
+  },
+  {
+    "greeting": "Buonasera",
+    "language": "Italian",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "IT",
+    "city": "Rome",
+    "airport_code": "FCO"
+  },
+  {
+    "greeting": "Boa tarde",
+    "language": "Portuguese",
+    "meaning": "Good afternoon",
+    "usage_note": "An afternoon greeting.",
+    "country_code": "PT",
+    "city": "Lisbon",
+    "airport_code": "LIS"
+  },
+  {
+    "greeting": "Goedenavond",
+    "language": "Dutch",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "airport_code": "AMS"
+  },
+  {
+    "greeting": "God kväll",
+    "language": "Swedish",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "airport_code": "ARN"
+  },
+  {
+    "greeting": "God kveld",
+    "language": "Norwegian Bokmål",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "NO",
+    "city": "Oslo",
+    "airport_code": "OSL"
+  },
+  {
+    "greeting": "Godaften",
+    "language": "Danish",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "DK",
+    "city": "Copenhagen",
+    "airport_code": "CPH"
+  },
+  {
+    "greeting": "Hyvää iltaa",
+    "language": "Finnish",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "airport_code": "HEL"
+  },
+  {
+    "greeting": "Gott kvöld",
+    "language": "Icelandic",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "IS",
+    "city": "Reykjavik",
+    "airport_code": "KEF"
+  },
+  {
+    "greeting": "Dobry wieczór",
+    "language": "Polish",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "airport_code": "WAW"
+  },
+  {
+    "greeting": "Dobrý večer",
+    "language": "Czech",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "CZ",
+    "city": "Prague",
+    "airport_code": "PRG"
+  },
+  {
+    "greeting": "Dobrý večer",
+    "language": "Slovak",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "SK",
+    "city": "Bratislava",
+    "airport_code": "BTS"
+  },
+  {
+    "greeting": "Dober večer",
+    "language": "Slovenian",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "SI",
+    "city": "Ljubljana",
+    "airport_code": "LJU"
+  },
+  {
+    "greeting": "Dobra večer",
+    "language": "Croatian",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "HR",
+    "city": "Zagreb",
+    "airport_code": "ZAG"
+  },
+  {
+    "greeting": "Dobro veče",
+    "language": "Serbian",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "airport_code": "BEG"
+  },
+  {
+    "greeting": "Mirëmbrëma",
+    "language": "Albanian",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "AL",
+    "city": "Tirana",
+    "airport_code": "TIA"
+  },
+  {
+    "greeting": "Bună seara",
+    "language": "Romanian",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "airport_code": "OTP"
+  },
+  {
+    "greeting": "Jó estét",
+    "language": "Hungarian",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "HU",
+    "city": "Budapest",
+    "airport_code": "BUD"
+  },
+  {
+    "greeting": "Kalispera",
+    "language": "Greek (romanized)",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "GR",
+    "city": "Athens",
+    "airport_code": "ATH"
+  },
+  {
+    "greeting": "İyi akşamlar",
+    "language": "Turkish",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "TR",
+    "city": "Istanbul",
+    "airport_code": "IST"
+  },
+  {
+    "greeting": "Tere õhtust",
+    "language": "Estonian",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "airport_code": "TLL"
+  },
+  {
+    "greeting": "Labvakar",
+    "language": "Latvian",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "LV",
+    "city": "Riga",
+    "airport_code": "RIX"
+  },
+  {
+    "greeting": "Labas vakaras",
+    "language": "Lithuanian",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "airport_code": "VNO"
+  },
+  {
+    "greeting": "Tráthnóna maith",
+    "language": "Irish",
+    "meaning": "Good afternoon / good evening",
+    "usage_note": "An afternoon or evening greeting.",
+    "country_code": "IE",
+    "city": "Dublin",
+    "airport_code": "DUB"
+  },
+  {
+    "greeting": "Noswaith dda",
+    "language": "Welsh",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "GB",
+    "city": "Cardiff",
+    "airport_code": "CWL"
+  },
+  {
+    "greeting": "Selamat sore",
+    "language": "Indonesian",
+    "meaning": "Good late afternoon",
+    "usage_note": "Used in the late afternoon.",
+    "country_code": "ID",
+    "city": "Jakarta",
+    "airport_code": "CGK"
+  },
+  {
+    "greeting": "Selamat petang",
+    "language": "Malay",
+    "meaning": "Good afternoon / good evening",
+    "usage_note": "Used during the afternoon or early evening.",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "airport_code": "KUL"
+  },
+  {
+    "greeting": "Chào buổi tối",
+    "language": "Vietnamese",
+    "meaning": "Good evening",
+    "usage_note": "An evening greeting or wish.",
+    "country_code": "VN",
+    "city": "Hanoi",
+    "airport_code": "HAN"
+  },
+  {
+    "greeting": "Habari za jioni",
+    "language": "Swahili",
+    "meaning": "How is your evening?",
+    "usage_note": "An evening inquiry used as a greeting.",
+    "country_code": "KE",
+    "city": "Nairobi",
+    "airport_code": "NBO"
+  },
+  {
+    "greeting": "Good night",
+    "language": "English",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "US",
+    "city": "San Francisco",
+    "airport_code": "SFO"
+  },
+  {
+    "greeting": "Bonne nuit",
+    "language": "French",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "FR",
+    "city": "Paris",
+    "airport_code": "CDG"
+  },
+  {
+    "greeting": "Buenas noches",
+    "language": "Spanish",
+    "meaning": "Good evening / good night",
+    "usage_note": "Can be used when greeting or taking leave at night.",
+    "country_code": "ES",
+    "city": "Madrid",
+    "airport_code": "MAD"
+  },
+  {
+    "greeting": "Gute Nacht",
+    "language": "German",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "DE",
+    "city": "Frankfurt",
+    "airport_code": "FRA"
+  },
+  {
+    "greeting": "Buonanotte",
+    "language": "Italian",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "IT",
+    "city": "Rome",
+    "airport_code": "FCO"
+  },
+  {
+    "greeting": "Boa noite",
+    "language": "Portuguese",
+    "meaning": "Good evening / good night",
+    "usage_note": "Can be used when greeting or taking leave at night.",
+    "country_code": "PT",
+    "city": "Lisbon",
+    "airport_code": "LIS"
+  },
+  {
+    "greeting": "Welterusten",
+    "language": "Dutch",
+    "meaning": "Sleep well / good night",
+    "usage_note": "A bedtime wish.",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "airport_code": "AMS"
+  },
+  {
+    "greeting": "God natt",
+    "language": "Swedish",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "airport_code": "ARN"
+  },
+  {
+    "greeting": "God natt",
+    "language": "Norwegian Bokmål",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "NO",
+    "city": "Oslo",
+    "airport_code": "OSL"
+  },
+  {
+    "greeting": "Godnat",
+    "language": "Danish",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "DK",
+    "city": "Copenhagen",
+    "airport_code": "CPH"
+  },
+  {
+    "greeting": "Hyvää yötä",
+    "language": "Finnish",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "airport_code": "HEL"
+  },
+  {
+    "greeting": "Góða nótt",
+    "language": "Icelandic",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "IS",
+    "city": "Reykjavik",
+    "airport_code": "KEF"
+  },
+  {
+    "greeting": "Dobranoc",
+    "language": "Polish",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "airport_code": "WAW"
+  },
+  {
+    "greeting": "Dobrou noc",
+    "language": "Czech",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "CZ",
+    "city": "Prague",
+    "airport_code": "PRG"
+  },
+  {
+    "greeting": "Dobrú noc",
+    "language": "Slovak",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "SK",
+    "city": "Bratislava",
+    "airport_code": "BTS"
+  },
+  {
+    "greeting": "Lahko noč",
+    "language": "Slovenian",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "SI",
+    "city": "Ljubljana",
+    "airport_code": "LJU"
+  },
+  {
+    "greeting": "Laku noć",
+    "language": "Croatian",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "HR",
+    "city": "Zagreb",
+    "airport_code": "ZAG"
+  },
+  {
+    "greeting": "Laku noć",
+    "language": "Serbian",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "airport_code": "BEG"
+  },
+  {
+    "greeting": "Natën e mirë",
+    "language": "Albanian",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "AL",
+    "city": "Tirana",
+    "airport_code": "TIA"
+  },
+  {
+    "greeting": "Noapte bună",
+    "language": "Romanian",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "airport_code": "OTP"
+  },
+  {
+    "greeting": "Jó éjszakát",
+    "language": "Hungarian",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "HU",
+    "city": "Budapest",
+    "airport_code": "BUD"
+  },
+  {
+    "greeting": "Kalinychta",
+    "language": "Greek (romanized)",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "GR",
+    "city": "Athens",
+    "airport_code": "ATH"
+  },
+  {
+    "greeting": "İyi geceler",
+    "language": "Turkish",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "TR",
+    "city": "Istanbul",
+    "airport_code": "IST"
+  },
+  {
+    "greeting": "Head ööd",
+    "language": "Estonian",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "airport_code": "TLL"
+  },
+  {
+    "greeting": "Ar labu nakti",
+    "language": "Latvian",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "LV",
+    "city": "Riga",
+    "airport_code": "RIX"
+  },
+  {
+    "greeting": "Labanakt",
+    "language": "Lithuanian",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "airport_code": "VNO"
+  },
+  {
+    "greeting": "Oíche mhaith",
+    "language": "Irish",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "IE",
+    "city": "Dublin",
+    "airport_code": "DUB"
+  },
+  {
+    "greeting": "Nos da",
+    "language": "Welsh",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "GB",
+    "city": "Cardiff",
+    "airport_code": "CWL"
+  },
+  {
+    "greeting": "Selamat tidur",
+    "language": "Indonesian",
+    "meaning": "Sleep well / good night",
+    "usage_note": "Said to someone going to sleep.",
+    "country_code": "ID",
+    "city": "Jakarta",
+    "airport_code": "CGK"
+  },
+  {
+    "greeting": "Selamat tidur",
+    "language": "Malay",
+    "meaning": "Sleep well / good night",
+    "usage_note": "Said to someone going to sleep.",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "airport_code": "KUL"
+  },
+  {
+    "greeting": "Chúc ngủ ngon",
+    "language": "Vietnamese",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "VN",
+    "city": "Hanoi",
+    "airport_code": "HAN"
+  },
+  {
+    "greeting": "Usiku mwema",
+    "language": "Swahili",
+    "meaning": "Good night",
+    "usage_note": "A nighttime or bedtime wish, often used when taking leave.",
+    "country_code": "KE",
+    "city": "Nairobi",
+    "airport_code": "NBO"
+  },
+  {
+    "greeting": "Goodbye",
+    "language": "English",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "US",
+    "city": "San Francisco",
+    "airport_code": "SFO"
+  },
+  {
+    "greeting": "Au revoir",
+    "language": "French",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "FR",
+    "city": "Paris",
+    "airport_code": "CDG"
+  },
+  {
+    "greeting": "Adiós",
+    "language": "Spanish",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "ES",
+    "city": "Madrid",
+    "airport_code": "MAD"
+  },
+  {
+    "greeting": "Auf Wiedersehen",
+    "language": "German",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "DE",
+    "city": "Frankfurt",
+    "airport_code": "FRA"
+  },
+  {
+    "greeting": "Arrivederci",
+    "language": "Italian",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "IT",
+    "city": "Rome",
+    "airport_code": "FCO"
+  },
+  {
+    "greeting": "Adeus",
+    "language": "Portuguese",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "PT",
+    "city": "Lisbon",
+    "airport_code": "LIS"
+  },
+  {
+    "greeting": "Tot ziens",
+    "language": "Dutch",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "airport_code": "AMS"
+  },
+  {
+    "greeting": "Hej då",
+    "language": "Swedish",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "airport_code": "ARN"
+  },
+  {
+    "greeting": "Ha det",
+    "language": "Norwegian Bokmål",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "NO",
+    "city": "Oslo",
+    "airport_code": "OSL"
+  },
+  {
+    "greeting": "Farvel",
+    "language": "Danish",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "DK",
+    "city": "Copenhagen",
+    "airport_code": "CPH"
+  },
+  {
+    "greeting": "Näkemiin",
+    "language": "Finnish",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "airport_code": "HEL"
+  },
+  {
+    "greeting": "Bless",
+    "language": "Icelandic",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "IS",
+    "city": "Reykjavik",
+    "airport_code": "KEF"
+  },
+  {
+    "greeting": "Do widzenia",
+    "language": "Polish",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "airport_code": "WAW"
+  },
+  {
+    "greeting": "Na shledanou",
+    "language": "Czech",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "CZ",
+    "city": "Prague",
+    "airport_code": "PRG"
+  },
+  {
+    "greeting": "Dovidenia",
+    "language": "Slovak",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "SK",
+    "city": "Bratislava",
+    "airport_code": "BTS"
+  },
+  {
+    "greeting": "Nasvidenje",
+    "language": "Slovenian",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "SI",
+    "city": "Ljubljana",
+    "airport_code": "LJU"
+  },
+  {
+    "greeting": "Doviđenja",
+    "language": "Croatian",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "HR",
+    "city": "Zagreb",
+    "airport_code": "ZAG"
+  },
+  {
+    "greeting": "Doviđenja",
+    "language": "Serbian",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "airport_code": "BEG"
+  },
+  {
+    "greeting": "Mirupafshim",
+    "language": "Albanian",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "AL",
+    "city": "Tirana",
+    "airport_code": "TIA"
+  },
+  {
+    "greeting": "La revedere",
+    "language": "Romanian",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "airport_code": "OTP"
+  },
+  {
+    "greeting": "Viszontlátásra",
+    "language": "Hungarian",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "HU",
+    "city": "Budapest",
+    "airport_code": "BUD"
+  },
+  {
+    "greeting": "Antio",
+    "language": "Greek (romanized)",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "GR",
+    "city": "Athens",
+    "airport_code": "ATH"
+  },
+  {
+    "greeting": "Hoşça kal",
+    "language": "Turkish",
+    "meaning": "Goodbye / stay well",
+    "usage_note": "Said by the person leaving to someone staying.",
+    "country_code": "TR",
+    "city": "Istanbul",
+    "airport_code": "IST"
+  },
+  {
+    "greeting": "Head aega",
+    "language": "Estonian",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "airport_code": "TLL"
+  },
+  {
+    "greeting": "Uz redzēšanos",
+    "language": "Latvian",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "LV",
+    "city": "Riga",
+    "airport_code": "RIX"
+  },
+  {
+    "greeting": "Viso gero",
+    "language": "Lithuanian",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "airport_code": "VNO"
+  },
+  {
+    "greeting": "Slán",
+    "language": "Irish",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "IE",
+    "city": "Dublin",
+    "airport_code": "DUB"
+  },
+  {
+    "greeting": "Hwyl fawr",
+    "language": "Welsh",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "GB",
+    "city": "Cardiff",
+    "airport_code": "CWL"
+  },
+  {
+    "greeting": "Sampai jumpa",
+    "language": "Indonesian",
+    "meaning": "See you",
+    "usage_note": "A farewell.",
+    "country_code": "ID",
+    "city": "Jakarta",
+    "airport_code": "CGK"
+  },
+  {
+    "greeting": "Jumpa lagi",
+    "language": "Malay",
+    "meaning": "See you again",
+    "usage_note": "A farewell.",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "airport_code": "KUL"
+  },
+  {
+    "greeting": "Tạm biệt",
+    "language": "Vietnamese",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "VN",
+    "city": "Hanoi",
+    "airport_code": "HAN"
+  },
+  {
+    "greeting": "Kwaheri",
+    "language": "Swahili",
+    "meaning": "Goodbye",
+    "usage_note": "A farewell; politeness depends on the situation.",
+    "country_code": "KE",
+    "city": "Nairobi",
+    "airport_code": "NBO"
+  }
+]
