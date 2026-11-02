@@ -14,6 +14,20 @@
         "airport_code": "SFO"
       },
       "message": "🇺🇸 PASSPORT PINGS — #1\nHello!\n\nLanguage: English\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: San Francisco (SFO)\nFeatured country: US"
+    },
+    {
+      "date": "2026-11-02",
+      "turn": 1,
+      "entry": {
+        "greeting": "Salut",
+        "language": "French",
+        "meaning": "Hi / bye",
+        "usage_note": "Informal; suitable for familiar people.",
+        "country_code": "FR",
+        "city": "Paris",
+        "airport_code": "CDG"
+      },
+      "message": "🇫🇷 PASSPORT PINGS — #2\nSalut!\n\nLanguage: French\nMeaning: Hi / bye\nUsage: Informal; suitable for familiar people.\nFeatured destination: Paris (CDG)\nFeatured country: FR"
     }
   ]
 }
