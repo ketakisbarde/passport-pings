@@ -28,6 +28,20 @@
         "airport_code": "CDG"
       },
       "message": "🇫🇷 PASSPORT PINGS — #2\nSalut!\n\nLanguage: French\nMeaning: Hi / bye\nUsage: Informal; suitable for familiar people.\nFeatured destination: Paris (CDG)\nFeatured country: FR"
+    },
+    {
+      "date": "2026-11-04",
+      "turn": 2,
+      "entry": {
+        "greeting": "Hola",
+        "language": "Spanish",
+        "meaning": "Hello",
+        "usage_note": "A greeting; formality depends on the language and situation.",
+        "country_code": "ES",
+        "city": "Madrid",
+        "airport_code": "MAD"
+      },
+      "message": "🇪🇸 PASSPORT PINGS — #3\nHola!\n\nLanguage: Spanish\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Madrid (MAD)\nFeatured country: ES"
     }
   ]
 }
