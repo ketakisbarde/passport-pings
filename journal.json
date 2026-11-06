@@ -42,6 +42,20 @@
         "airport_code": "MAD"
       },
       "message": "🇪🇸 PASSPORT PINGS — #3\nHola!\n\nLanguage: Spanish\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Madrid (MAD)\nFeatured country: ES"
+    },
+    {
+      "date": "2026-11-06",
+      "turn": 3,
+      "entry": {
+        "greeting": "Hallo",
+        "language": "German",
+        "meaning": "Hello",
+        "usage_note": "A greeting; formality depends on the language and situation.",
+        "country_code": "DE",
+        "city": "Frankfurt",
+        "airport_code": "FRA"
+      },
+      "message": "🇩🇪 PASSPORT PINGS — #4\nHallo!\n\nLanguage: German\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Frankfurt (FRA)\nFeatured country: DE"
     }
   ]
 }

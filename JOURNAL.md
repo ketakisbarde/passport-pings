@@ -3,6 +3,17 @@
 These entries and their commits are automated language-learning activity.
 The greeting dataset is a draft, not a verified phrasebook.
 
+## 2026-11-06
+
+<pre>🇩🇪 PASSPORT PINGS — #4
+Hallo!
+
+Language: German
+Meaning: Hello
+Usage: A greeting; formality depends on the language and situation.
+Featured destination: Frankfurt (FRA)
+Featured country: DE</pre>
+
 ## 2026-11-04
 
 <pre>🇪🇸 PASSPORT PINGS — #3
