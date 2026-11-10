@@ -3,6 +3,17 @@
 These entries and their commits are automated language-learning activity.
 The greeting dataset is a draft, not a verified phrasebook.
 
+## 2026-11-09
+
+<pre>🇮🇹 PASSPORT PINGS — #5
+Ciao!
+
+Language: Italian
+Meaning: Hello / goodbye
+Usage: Informal; suitable for familiar people.
+Featured destination: Rome (FCO)
+Featured country: IT</pre>
+
 ## 2026-11-06
 
 <pre>🇩🇪 PASSPORT PINGS — #4

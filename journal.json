@@ -56,6 +56,20 @@
         "airport_code": "FRA"
       },
       "message": "🇩🇪 PASSPORT PINGS — #4\nHallo!\n\nLanguage: German\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Frankfurt (FRA)\nFeatured country: DE"
+    },
+    {
+      "date": "2026-11-09",
+      "turn": 4,
+      "entry": {
+        "greeting": "Ciao",
+        "language": "Italian",
+        "meaning": "Hello / goodbye",
+        "usage_note": "Informal; suitable for familiar people.",
+        "country_code": "IT",
+        "city": "Rome",
+        "airport_code": "FCO"
+      },
+      "message": "🇮🇹 PASSPORT PINGS — #5\nCiao!\n\nLanguage: Italian\nMeaning: Hello / goodbye\nUsage: Informal; suitable for familiar people.\nFeatured destination: Rome (FCO)\nFeatured country: IT"
     }
   ]
 }
