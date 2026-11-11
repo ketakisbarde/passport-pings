@@ -70,6 +70,20 @@
         "airport_code": "FCO"
       },
       "message": "🇮🇹 PASSPORT PINGS — #5\nCiao!\n\nLanguage: Italian\nMeaning: Hello / goodbye\nUsage: Informal; suitable for familiar people.\nFeatured destination: Rome (FCO)\nFeatured country: IT"
+    },
+    {
+      "date": "2026-11-11",
+      "turn": 5,
+      "entry": {
+        "greeting": "Olá",
+        "language": "Portuguese",
+        "meaning": "Hello",
+        "usage_note": "A greeting; formality depends on the language and situation.",
+        "country_code": "PT",
+        "city": "Lisbon",
+        "airport_code": "LIS"
+      },
+      "message": "🇵🇹 PASSPORT PINGS — #6\nOlá!\n\nLanguage: Portuguese\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Lisbon (LIS)\nFeatured country: PT"
     }
   ]
 }

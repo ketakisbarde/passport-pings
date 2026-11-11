@@ -3,6 +3,17 @@
 These entries and their commits are automated language-learning activity.
 The greeting dataset is a draft, not a verified phrasebook.
 
+## 2026-11-11
+
+<pre>🇵🇹 PASSPORT PINGS — #6
+Olá!
+
+Language: Portuguese
+Meaning: Hello
+Usage: A greeting; formality depends on the language and situation.
+Featured destination: Lisbon (LIS)
+Featured country: PT</pre>
+
 ## 2026-11-09
 
 <pre>🇮🇹 PASSPORT PINGS — #5
