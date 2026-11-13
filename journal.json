@@ -84,6 +84,20 @@
         "airport_code": "LIS"
       },
       "message": "🇵🇹 PASSPORT PINGS — #6\nOlá!\n\nLanguage: Portuguese\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Lisbon (LIS)\nFeatured country: PT"
+    },
+    {
+      "date": "2026-11-13",
+      "turn": 6,
+      "entry": {
+        "greeting": "Hallo",
+        "language": "Dutch",
+        "meaning": "Hello",
+        "usage_note": "A greeting; formality depends on the language and situation.",
+        "country_code": "NL",
+        "city": "Amsterdam",
+        "airport_code": "AMS"
+      },
+      "message": "🇳🇱 PASSPORT PINGS — #7\nHallo!\n\nLanguage: Dutch\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Amsterdam (AMS)\nFeatured country: NL"
     }
   ]
 }
