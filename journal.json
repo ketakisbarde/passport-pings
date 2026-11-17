@@ -98,6 +98,20 @@
         "airport_code": "AMS"
       },
       "message": "🇳🇱 PASSPORT PINGS — #7\nHallo!\n\nLanguage: Dutch\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Amsterdam (AMS)\nFeatured country: NL"
+    },
+    {
+      "date": "2026-11-16",
+      "turn": 7,
+      "entry": {
+        "greeting": "Hej",
+        "language": "Swedish",
+        "meaning": "Hello",
+        "usage_note": "A greeting; formality depends on the language and situation.",
+        "country_code": "SE",
+        "city": "Stockholm",
+        "airport_code": "ARN"
+      },
+      "message": "🇸🇪 PASSPORT PINGS — #8\nHej!\n\nLanguage: Swedish\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Stockholm (ARN)\nFeatured country: SE"
     }
   ]
 }

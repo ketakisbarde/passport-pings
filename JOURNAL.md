@@ -3,6 +3,17 @@
 These entries and their commits are automated language-learning activity.
 The greeting dataset is a draft, not a verified phrasebook.
 
+## 2026-11-16
+
+<pre>🇸🇪 PASSPORT PINGS — #8
+Hej!
+
+Language: Swedish
+Meaning: Hello
+Usage: A greeting; formality depends on the language and situation.
+Featured destination: Stockholm (ARN)
+Featured country: SE</pre>
+
 ## 2026-11-13
 
 <pre>🇳🇱 PASSPORT PINGS — #7
