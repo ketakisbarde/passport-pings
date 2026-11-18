@@ -3,6 +3,17 @@
 These entries and their commits are automated language-learning activity.
 The greeting dataset is a draft, not a verified phrasebook.
 
+## 2026-11-18
+
+<pre>🇳🇴 PASSPORT PINGS — #9
+Hei!
+
+Language: Norwegian Bokmål
+Meaning: Hello
+Usage: A greeting; formality depends on the language and situation.
+Featured destination: Oslo (OSL)
+Featured country: NO</pre>
+
 ## 2026-11-16
 
 <pre>🇸🇪 PASSPORT PINGS — #8
