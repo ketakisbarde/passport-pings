@@ -126,6 +126,20 @@
         "airport_code": "OSL"
       },
       "message": "🇳🇴 PASSPORT PINGS — #9\nHei!\n\nLanguage: Norwegian Bokmål\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Oslo (OSL)\nFeatured country: NO"
+    },
+    {
+      "date": "2026-11-20",
+      "turn": 9,
+      "entry": {
+        "greeting": "Hej",
+        "language": "Danish",
+        "meaning": "Hello",
+        "usage_note": "A greeting; formality depends on the language and situation.",
+        "country_code": "DK",
+        "city": "Copenhagen",
+        "airport_code": "CPH"
+      },
+      "message": "🇩🇰 PASSPORT PINGS — #10\nHej!\n\nLanguage: Danish\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Copenhagen (CPH)\nFeatured country: DK"
     }
   ]
 }
