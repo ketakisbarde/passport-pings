@@ -140,6 +140,20 @@
         "airport_code": "CPH"
       },
       "message": "🇩🇰 PASSPORT PINGS — #10\nHej!\n\nLanguage: Danish\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Copenhagen (CPH)\nFeatured country: DK"
+    },
+    {
+      "date": "2026-11-23",
+      "turn": 10,
+      "entry": {
+        "greeting": "Hei",
+        "language": "Finnish",
+        "meaning": "Hello",
+        "usage_note": "A greeting; formality depends on the language and situation.",
+        "country_code": "FI",
+        "city": "Helsinki",
+        "airport_code": "HEL"
+      },
+      "message": "🇫🇮 PASSPORT PINGS — #11\nHei!\n\nLanguage: Finnish\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Helsinki (HEL)\nFeatured country: FI"
     }
   ]
 }

@@ -3,6 +3,17 @@
 These entries and their commits are automated language-learning activity.
 The greeting dataset is a draft, not a verified phrasebook.
 
+## 2026-11-23
+
+<pre>🇫🇮 PASSPORT PINGS — #11
+Hei!
+
+Language: Finnish
+Meaning: Hello
+Usage: A greeting; formality depends on the language and situation.
+Featured destination: Helsinki (HEL)
+Featured country: FI</pre>
+
 ## 2026-11-20
 
 <pre>🇩🇰 PASSPORT PINGS — #10
