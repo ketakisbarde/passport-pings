@@ -154,6 +154,20 @@
         "airport_code": "HEL"
       },
       "message": "🇫🇮 PASSPORT PINGS — #11\nHei!\n\nLanguage: Finnish\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Helsinki (HEL)\nFeatured country: FI"
+    },
+    {
+      "date": "2026-11-25",
+      "turn": 11,
+      "entry": {
+        "greeting": "Halló",
+        "language": "Icelandic",
+        "meaning": "Hello",
+        "usage_note": "A greeting; formality depends on the language and situation.",
+        "country_code": "IS",
+        "city": "Reykjavik",
+        "airport_code": "KEF"
+      },
+      "message": "🇮🇸 PASSPORT PINGS — #12\nHalló!\n\nLanguage: Icelandic\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Reykjavik (KEF)\nFeatured country: IS"
     }
   ]
 }
