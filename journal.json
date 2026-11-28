@@ -168,6 +168,20 @@
         "airport_code": "KEF"
       },
       "message": "🇮🇸 PASSPORT PINGS — #12\nHalló!\n\nLanguage: Icelandic\nMeaning: Hello\nUsage: A greeting; formality depends on the language and situation.\nFeatured destination: Reykjavik (KEF)\nFeatured country: IS"
+    },
+    {
+      "date": "2026-11-27",
+      "turn": 12,
+      "entry": {
+        "greeting": "Cześć",
+        "language": "Polish",
+        "meaning": "Hi / bye",
+        "usage_note": "An informal greeting or farewell.",
+        "country_code": "PL",
+        "city": "Warsaw",
+        "airport_code": "WAW"
+      },
+      "message": "🇵🇱 PASSPORT PINGS — #13\nCześć!\n\nLanguage: Polish\nMeaning: Hi / bye\nUsage: An informal greeting or farewell.\nFeatured destination: Warsaw (WAW)\nFeatured country: PL"
     }
   ]
 }

@@ -3,6 +3,17 @@
 These entries and their commits are automated language-learning activity.
 The greeting dataset is a draft, not a verified phrasebook.
 
+## 2026-11-27
+
+<pre>🇵🇱 PASSPORT PINGS — #13
+Cześć!
+
+Language: Polish
+Meaning: Hi / bye
+Usage: An informal greeting or farewell.
+Featured destination: Warsaw (WAW)
+Featured country: PL</pre>
+
 ## 2026-11-25
 
 <pre>🇮🇸 PASSPORT PINGS — #12
